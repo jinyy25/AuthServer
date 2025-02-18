@@ -2,6 +2,7 @@
 
 - Spring Security
 - JWT
+- JPA
 
   
   
