@@ -1,4 +1,4 @@
-# JWT_TEST
+# AUTH_TEST
 
 - Spring Security
 - JWT
